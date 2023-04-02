@@ -1,0 +1,12 @@
+D:\MGGEU\2019-2020\Projects\WWW\WCF_1\WcfService1\bin\WcfService1.dll.config
+D:\MGGEU\2019-2020\Projects\WWW\WCF_1\WcfService1\bin\WcfService1.dll
+D:\MGGEU\2019-2020\Projects\WWW\WCF_1\WcfService1\bin\WcfService1.pdb
+D:\MGGEU\2019-2020\Projects\WWW\WCF_1\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+D:\MGGEU\2019-2020\Projects\WWW\WCF_1\WcfService1\obj\Debug\WcfService1.dll
+D:\MGGEU\2019-2020\Projects\WWW\WCF_1\WcfService1\obj\Debug\WcfService1.pdb
+J:\MGGEU\!!!_VKR\WWW\WCF_1\WcfService1\bin\WcfService1.dll.config
+J:\MGGEU\!!!_VKR\WWW\WCF_1\WcfService1\bin\WcfService1.dll
+J:\MGGEU\!!!_VKR\WWW\WCF_1\WcfService1\bin\WcfService1.pdb
+J:\MGGEU\!!!_VKR\WWW\WCF_1\WcfService1\obj\Debug\WcfService1.csprojAssemblyReference.cache
+J:\MGGEU\!!!_VKR\WWW\WCF_1\WcfService1\obj\Debug\WcfService1.dll
+J:\MGGEU\!!!_VKR\WWW\WCF_1\WcfService1\obj\Debug\WcfService1.pdb
